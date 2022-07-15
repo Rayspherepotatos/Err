@@ -1,3 +1,46 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=, initial-scale=1.0">
+    <title>Document</title>
+    <link rel="stylesheet" href="ray.css">
+</head>
+<body>
+ <nav>
+     <div class="nav-container"> 
+        <img src="https://landkit.goodthemes.co/assets/img/brand.svg"" alt="">
+        <ul>
+            <li><a href="ray.html">Home</a></li>
+            <li><a href="about.html">About</a></li>
+            <li><a href="contact.html">Contact</a></li>
+            <li><a href="documentation.html">Documentation</a></li>
+        </ul>
+       <button>Buy now</button>
+     </div>
+ </nav>
+ <div class="hero-container">
+     <div class="title-container">
+         <h1>Welcome to <span>Landkit</span>.</h1>
+         <h1>Develop anything</h1>
+         <p>
+             Build a beautiful,modern website with flexible bootstrap component 
+             built from scratch
+         </p>
+         <div>
+             <button>View All Pages</button>
+             <button>Documentation</button>
+         </div>
+     </div>
+     <img src="https://landkit.goodthemes.co/assets/img/illustrations/illustration-2.png"" 
+     alt="">
+     
+ </div>
+</body>
+</html>
+
+
 nav {
     width: 100%;
     display: flex;
