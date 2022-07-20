@@ -44,6 +44,25 @@ nav {
 span {
   color: blue;
 }
+.button2 {
+  font-size: 15px;
+  width: 160px;
+  height: 50px;
+  border-radius: 5px;
+  background: #335eea;
+  color: white;
+  border-width: 0px;
+}
+.button3 {
+  font-size: 15px;
+  width: 160px;
+  height: 50px;
+  border-radius: 5px;
+  background: rgb(214, 238, 246);
+  color: blue;
+  border-width: 0px;
+}
+
 .button1 {
   font-size: 15px;
   width: 100px;
@@ -70,5 +89,48 @@ span {
   max-width: 1024;
   margin: auto;
   display: grid;
+  color: #869ab8;
+  display: grid;
   grid-template-columns: repeat(6, 1fr);
+  align-items: center;
+  display: block;
+}
+.Re {
+  width: 370px;
+  height: auto;
+  border-radius: 5px;
+  border-width: 0px;
+  display: block;
+  border: 1px solid;
+  padding: 10px;
+  box-shadow: 5px 10px white;
+}
+.Card {
+  width: 200px;
+  height: 45px;
+  display: block;
+  border: 1px solid;
+  padding: 10px;
+  box-shadow: 5px 10px white;
+}
+.btn {
+  font-size: 15px;
+  width: 210px;
+  height: 50px;
+  border-radius: 5px;
+  background: #389e80;
+  color: #fff;
+  border-width: 0px;
+}
+.animated_container {
+  max-width: 3500px;
+  width: 50%;
+  margin: 100px;
+  display: grid;
+}
+body {
+  font-family: "Arima", cursive;
+  font-family: "Montserrat", sans-serif;
+  font-family: "Open Sans", sans-serif;
+  font-family: "Source Sans Pro", sans-serif;
 }
